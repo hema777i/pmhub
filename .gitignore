@@ -16,3 +16,9 @@ build/
 # IDE
 .vscode/
 .idea/
+
+# Secrets
+**/.env
+**/.env.local
+*.db
+*.db-journal
